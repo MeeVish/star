@@ -1,0 +1,50 @@
+body {
+  font-family: "Roboto", sans-serif;
+  color: #252525;
+}
+
+header {
+  background-color: #eebb44;
+  margin-bottom: 40px;
+}
+
+
+p {
+  margin-top: 0.5em;
+}
+
+header h1 {
+  line-height: 1;
+  margin-bottom: 0;
+}
+header h2 {
+  line-height: 1;
+  margin-bottom: 0;
+}
+header h3 {
+  line-height: 1;
+  margin-bottom: 0;
+}
+.card {
+  border: 1px solid #E5E5E5;
+  margin-bottom: 20px;
+}
+
+.card p{
+
+  margin-left: 20px;
+
+}
+.card img {
+  width: 100%;
+  /*padding: 20px;*/
+}
+
+.card h3 {
+  padding: 20px;
+  padding-top: 0;
+}
+
+.card div{
+  padding: 20px;
+}
